@@ -1,0 +1,2 @@
+/* we will have multiple reducers and all sucj reducers will be
+combined into index.js file */
